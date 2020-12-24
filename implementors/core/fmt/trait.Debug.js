@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["socketcan_alt"] = [{"text":"impl Debug for DataFrame","synthetic":false,"types":[]},{"text":"impl Debug for FdDataFrame","synthetic":false,"types":[]},{"text":"impl Debug for Id","synthetic":false,"types":[]},{"text":"impl Debug for RemoteFrame","synthetic":false,"types":[]},{"text":"impl Debug for Frame","synthetic":false,"types":[]},{"text":"impl Debug for Timestamping","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
